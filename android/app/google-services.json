@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931710487431",
+    "project_id": "self-driving-car-bda25",
+    "storage_bucket": "self-driving-car-bda25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931710487431:android:3691f76e09afb7a648e122",
+        "android_client_info": {
+          "package_name": "com.example.self_d_c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931710487431-bf9n0i8ian8ostcj0o364oc8itmus6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEOwIM9uYDJQwq2xtOHzqAPNrxahWUGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931710487431-bf9n0i8ian8ostcj0o364oc8itmus6ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
