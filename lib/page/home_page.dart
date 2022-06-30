@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:self_d_c/mainlist.dart';
 import 'package:provider/provider.dart';
-import 'package:self_d_c/widget/add_todo_dialog_widget.dart';
 import 'package:self_d_c/widget/completed_list_widget.dart';
 import 'package:self_d_c/widget/todo_list_widget.dart';
 import 'package:firebase_storage/firebase_storage.dart';

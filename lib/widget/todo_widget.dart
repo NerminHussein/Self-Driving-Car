@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:provider/provider.dart';
 import 'package:self_d_c/model/todo.dart';
-import 'package:self_d_c/page/edit_todo_page.dart';
 import 'package:self_d_c/provider/todos.dart';
 import 'package:self_d_c/utils.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
